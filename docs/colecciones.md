@@ -2,6 +2,16 @@
 
 [Volver](../README.md)
 
+## Intercambios
+
+### Intercambio de valores de 2 variables
+
+* Solicitar dos valores numéricos, mostrarlos y sus valores intercambiados en la variables
+
+### Rotación de 3 variables
+
+* Solicitar tres valores, mostrarlos repetidas veces rotando sus valores
+ 
 ## Series
 
 * Escribir  una expresión para obtener cada una de las siguientes columnas
