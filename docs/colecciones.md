@@ -25,11 +25,11 @@
 
 ## Media
 
-* Dados unos numeros determinar los mayores y menores de la media
+* Dados unos números determinar los mayores y menores de la media
 
 ## Moda
 
-* Dados unos numeros las modas
+* Dados unos números las modas
 
 ## Histograma
 
