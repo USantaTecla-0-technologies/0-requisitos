@@ -1,4 +1,4 @@
-# USantaTecla. Dominios
+# USantaTecla. Requisitos
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com) 
 
