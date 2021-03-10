@@ -4,6 +4,6 @@ Universo Santa Tecla
 
 ## [Textos](./docs/textos.md)
 ## [Tiempo](./docs/tiempo.md)
-## [Espacio](./docs/numeros.md)
+## [Espacio](./docs/espacio.md)
 ## [Números](./docs/numeros.md)
-## [Colecciones](./docs/numeros.md)
+## [Colecciones](./docs/colecciones.md)
