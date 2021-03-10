@@ -2,13 +2,17 @@
 
 [Volver](../README.md)
 
+## Pariedad
+
+* Escribir un programa que solicite un número y muestre si es par o impar
+
 ## Valor Absoluto
 
 * Escribir un programa que solicite un número y muestre su valor absoluto, en positivo
 
-## Pariedad
+## División Entera
 
-* Escribir un programa que solicite un número y muestre si es par o impar
+* Escribir un programa que solicite un número y muestre el cociente y resto de la división entera
 
 ## IVA
 
