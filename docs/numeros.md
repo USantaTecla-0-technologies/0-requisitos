@@ -74,7 +74,7 @@
 
 * Mostrar las 10 primeras tablas de multiplicar
 
-## Perfecto
+## Número Perfecto
 
 * Un número es perfecto si la suma de sus divisores es igual a sí mismo, o sea si es amigo de sí mismo. Por ejemplo, 28 es perfecto porque sus divisores 1, 2, 4, 7 y 14 suman 28
 * Escribe un programa que solicite al usuario un número y muestre si es perfecto
