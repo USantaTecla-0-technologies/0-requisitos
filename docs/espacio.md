@@ -16,9 +16,9 @@
 
 * Cálculo del área πr2 y perímetro 2πr del círculo
 
-### Formación de Triángulo
+### Tipo de Triángulo
 
-* Solicitar 3 valores y mostrar si forman un triángulo, donde el mayor de los tres es inferior a la suma de los otros dos
+* Solicitar 3 valores y mostrar si forman un triángulo, donde el mayor de los tres es inferior a la suma de los otros dos, y, en tal caso, mostrar si es equilatero, isósceles o escaleno
 
 ### Tipo de Triangulo
 
