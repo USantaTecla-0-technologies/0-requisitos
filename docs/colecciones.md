@@ -49,3 +49,8 @@
 
 * Solicitar una secuencia de valores, finalizada con entrada sin valor, y mostrarlos ordenados
 
+## Matrices
+
+### Matriz transpuesta
+
+* Mostrar la transpuesta de una matriz inicializada con NxM valores 1, 2, 3, ... NxM.
