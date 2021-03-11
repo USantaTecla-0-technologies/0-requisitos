@@ -76,7 +76,7 @@
 
 ## Tablas de Multiplicar
 
-* Mostrar las 10 primeras tablas de multiplicar
+* Solicitar un número entero y mostrar la tabla de multiplicar correspondiente
 
 ## Número Perfecto
 
