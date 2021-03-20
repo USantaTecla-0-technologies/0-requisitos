@@ -129,7 +129,7 @@
 ### Numero aureo
 
 * blablabla
-   * ![Tabla](./images/numeroAureo.png){: width='100px'}
+   * ![Tabla](./images/numeroAureo.png){:width='100px'}
 
 ### Euclides
 
