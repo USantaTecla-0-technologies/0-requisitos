@@ -122,7 +122,7 @@
 ### Sistemas numericion
 
 * blablabla
-   * ![Tabla](./images/sistemaNumeracion.png) | ![Tabla](./images/numeracionSystems.png)
+   *| ![Tabla](./images/sistemaNumeracion.png) | ![Tabla](./images/numeracionSystems.png) |
 
 ### Numero aureo
 
