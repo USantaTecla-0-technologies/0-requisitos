@@ -122,21 +122,21 @@
 ### Sistemas numericion
 
 * blablabla
-   * ![Tabla](./images/sistemaNumeracion.png){width='50px'} 
+   * ![Tabla](./images/numberingSystem.png)
    
-   * ![Tabla](./images/numeracionSystems.png){width='50px'} 
+   * ![Tabla](./images/sistemasNumeracion.png)
 
 ### Numero aureo
 
 * blablabla
-   * ![Tabla](./images/numeroAureo.png){:width='100px'}
+   * ![Tabla](./images/numeroAureo.png)
 
 ### Euclides
 
 * blablabla
-   * ![Tabla](./images/euclides.png =100x20)
+   * ![Tabla](./images/euclides.png)
 
 ### Combinations
 
 * blablabla
-   * ![Tabla](./images/tablaColores.png =100x20)
+   * ![Tabla](./images/tablaColores.png)
