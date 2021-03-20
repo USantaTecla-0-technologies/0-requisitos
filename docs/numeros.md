@@ -134,9 +134,9 @@
 ### Euclides
 
 * blablabla
-   * ![Tabla](./images/euclides.png){width="100px"}
+   * ![Tabla](./images/euclides.png =100x20)
 
 ### Combinations
 
 * blablabla
-   * ![Tabla](./images/tablaColores.png){width='100px'}
+   * ![Tabla](./images/tablaColores.png =100x20)
