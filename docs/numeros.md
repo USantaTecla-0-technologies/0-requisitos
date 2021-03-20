@@ -134,7 +134,7 @@
 ### Euclides
 
 * blablabla
-   * ![Tabla](./images/euclides.png){width='100px'}
+   * ![Tabla](./images/euclides.png){width="100px"}
 
 ### Combinations
 
