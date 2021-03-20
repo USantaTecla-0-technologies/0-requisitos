@@ -15,7 +15,7 @@
 ## Series
 
 * Escribir  una expresión para obtener cada una de las siguientes columnas
-   * ![Tabla](tabla.png)
+   * ![Tabla](./images/Tabla.png)
 
 ## Intervalos
 
