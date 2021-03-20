@@ -134,7 +134,7 @@
 * blablabla
    * ![Tabla](./images/euclides.png)
 
-### Combinaciones
+### Combinations
 
 * blablabla
    * ![Tabla](./images/tablaColores.png)
