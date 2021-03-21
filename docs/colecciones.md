@@ -60,7 +60,7 @@
 
 * Generar a partir de:
 
-´´´´
+```
 [
    {nombre:"Alava", km2:"238398", poblacion:"98229", capital:"Vitoria"}, 
    {nombre:"Burgos", km2:"34555", poblacion:"77764", capital:"Vitoria"}, 
@@ -68,7 +68,7 @@
    {nombre:"Huesca", km2:"78875", poblacion:"6789", capital:"Vitoria"}, 
    {nombre:"Gran Canaria", km2:"454555",poblacion:"35433", capital:"Vitoria",}, 
 ]
-´´´´
+```
 
 ![Tabla](./images/provincias1.png)
 
