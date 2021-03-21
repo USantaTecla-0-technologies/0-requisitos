@@ -123,11 +123,11 @@
 
 #### Tabla estática
 
-![Tabla](./images/numberingSystem.png)
+![Tabla](./images/sistemasNumeracion.png)
 
 #### Desarrollo dinámico
 
-![Tabla](./images/sistemasNumeracion.png)
+![Tabla](./images/numberingSystem.png)
 
 ### Numero aureo
 
