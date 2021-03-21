@@ -125,7 +125,7 @@
 
 ![Tabla](./images/sistemasNumeracion.png)
 
-#### Desarrollo dinámico
+#### Desarrollo dinamico
 
 ![Tabla](./images/numberingSystem.png)
 
