@@ -62,11 +62,11 @@
 
 ```
 [
-   {nombre:"Alava", km2:"238398", poblacion:"98229", capital:"Vitoria"}, 
-   {nombre:"Burgos", km2:"34555", poblacion:"77764", capital:"Vitoria"}, 
-   {nombre:"Cáceres", km2:"233433", poblacion:"76543", capital:"Vitoria"}, 
-   {nombre:"Huesca", km2:"78875", poblacion:"6789", capital:"Vitoria"}, 
-   {nombre:"Gran Canaria", km2:"454555",poblacion:"35433", capital:"Vitoria",}, 
+   {nombre:"Alava", km2:"238398", poblacion:"98229"}, 
+   {nombre:"Burgos", km2:"34555", poblacion:"77764"}, 
+   {nombre:"Cáceres", km2:"233433", poblacion:"76543"}, 
+   {nombre:"Huesca", km2:"78875", poblacion:"6789"}, 
+   {nombre:"Santa Cruz de Tenerife", km2:"454555", poblacion:"35433"}, 
 ]
 ```
 
