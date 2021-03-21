@@ -131,15 +131,12 @@
 
 ### Numero aureo
 
-* blablabla
-   * ![Tabla](./images/numeroAureo.png)
+![Tabla](./images/numeroAureo.png)
 
 ### Euclides
 
-* blablabla
-   * ![Tabla](./images/euclides.png)
+![Tabla](./images/euclides.png)
 
 ### Combinations
 
-* blablabla
-   * ![Tabla](./images/tablaColores.png)
+![Tabla](./images/tablaColores.png)
