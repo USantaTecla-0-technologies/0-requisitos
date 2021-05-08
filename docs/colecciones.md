@@ -72,4 +72,30 @@
 
 ![Tabla](./images/provincias1.png)
 
-   
+## Países
+
+### Transformador
+
+Mostrar por consola:
+** La media de áreas de todos los países
+** La media de población de países
+
+### Filtros
+
+* Mostrar por consola:
+** La media de población de paises de la región asiatica
+** La media de densidad de paises de la región asiatica con población menor a 1000000
+** La media de áreas de paises con area superior a la media de las áreas de todos los países
+** La media de los números dados menores que 5
+
+### Reducciones
+
+* Mostrar por consola:
+** El máximo de números
+** El máximo de áreas de los países
+** El máximo de áreas de la región asiatica
+** El nombre del máximo de las áreas de la región asiatica
+** La lista de nombres por linea
+** La lista de nombres en HTML
+
+
